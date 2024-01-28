@@ -1,0 +1,100 @@
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Transferência de arquivo: arquivo_transferencia.txt para arquivo_recebido.txt
+INFO:root:Transferência bem-sucedida
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+ERROR:root:Falha no envio: Arquivo contém 'erro'
+INFO:root:Transferência de arquivo: teste.txt para arquivo_recebido.txt
+INFO:root:Transferência bem-sucedida
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+ERROR:root:Falha no envio: Arquivo contém 'erro'
+INFO:root:Transferência de arquivo: teste.txt para arquivo_recebido.txt
+INFO:root:Transferência bem-sucedida
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+ERROR:root:Falha no envio: Arquivo contém 'erro no servidor '
+INFO:root:Transferência de arquivo: teste.txt para arquivo_recebido.txt
+INFO:root:Transferência bem-sucedida
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Transferência de arquivo: teste.txt para arquivo_recebido.txt
+INFO:root:Transferência bem-sucedida
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+INFO:root:Enviando arquivo teste.txt para banco_destino
+INFO:root:Envio de arquivo: teste.txt
+INFO:root:Envio bem-sucedido
+INFO:root:Recebimento de arquivo: arquivo_recebido.txt
+INFO:root:Recebimento bem-sucedido
+INFO:root:Processamento de arquivo: arquivo_recebido.txt
+INFO:root:Processamento bem-sucedido
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo '
+INFO:root:Envio de arquivo com erro: arquivo_com_erro.txt
+ERROR:root:Falha no envio com erro
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
+ERROR:root:Falha no envio: Arquivo contém 'erro no arquivo'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): testevan.com.br:80
